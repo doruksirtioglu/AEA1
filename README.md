@@ -1,7 +1,10 @@
 # AEA1
 
-Assignment submission, deadline Jan 17, 2019.
-
-Upload the .pynb file to the GitHub repository. Data should be uploaded to the repository as well (or if it is not publishable, email to Jan Boone). Adjust data sourcing relatively.
+This repository contains my final assignment for AEA1.
 
 ## Link to final version of the notebook in the GitHub repository:
+[Final Assignment](https://github.com/doruksirtioglu/AEA1/blob/master/Doruk_sirtioglu_final_assignment_AEA1.ipynb)
+[Data](https://github.com/doruksirtioglu/AEA1/blob/master/Python_Data_Final.csv)
+
+
+
